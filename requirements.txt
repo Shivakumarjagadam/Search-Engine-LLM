@@ -1,0 +1,82 @@
+langchain
+
+python-dotenv
+
+ipykernel
+langchain-community
+pypdf
+bs4
+arxiv
+pymupdf
+wikipedia
+langchain-text-splitters
+langchain-openai 
+chromadb
+sentence_transformers
+langchain_huggingface
+faiss-cpu
+langchain-chroma
+
+duckdb
+pandas
+openai
+langchain-groq
+duckduckgo_search==5.3.1b1
+pymupdf
+arxiv
+wikipedia
+# sql lib used to connect to localdb and mysql_db..
+
+mysql-connector-python
+SQLAlchemy
+
+#youtube or website summarization...
+validators==0.28.1
+youtube_transcript_api
+unstructured
+pytube
+
+#maths solver
+numexpr
+
+#huggingface exper
+#langchain_huggingface
+huggingface_hub
+
+
+
+# speech recog for app.py
+streamlit
+SpeechRecognition
+pyaudio
+PyDub
+gtts
+pygame
+
+
+#image recognition
+
+transformers
+pillow
+
+#using groq_api_key to serve.py
+fastapi
+langserve
+sse_starlette
+
+
+#chatbot
+#langchain_community..
+
+#144.vectorstore and retirve
+# langchain
+# langchain-chroma
+# langchain-groq
+#langchain-hugging face
+
+#create tools and agents..
+#arxiv
+#wikipedia
+
+#codellama
+gradio
