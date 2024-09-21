@@ -1,6 +1,7 @@
 langchain
 
 python-dotenv
+pyaudio
 
 ipykernel
 langchain-community
